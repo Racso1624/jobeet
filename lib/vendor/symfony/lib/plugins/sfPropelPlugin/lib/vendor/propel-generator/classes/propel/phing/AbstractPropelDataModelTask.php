@@ -438,10 +438,24 @@ abstract class AbstractPropelDataModelTask extends Task {
 						$this->includeExternalSchemas($dom, $srcDir);
 						// normalize the document using normalizer stylesheet
 
-						$xsl = new XsltProcessor();
-						$xsl->importStyleSheet(DomDocument::load($this->xslFile->getAbsolutePath()));
+						// Create an instance of DOMDocument
+						$xmlDoc = new DOMDocument();
+
+						// Load the XML file using the created instance
+						$xmlDoc->load($this->xslFile->getAbsolutePath());
+
+						// Create an instance of XSLTProcessor
+						$xsl = new XSLTProcessor();
+
+						// Import the XSLT stylesheet
+						$xsl->importStylesheet($xmlDoc);
+
+						// Continue with the transformation as before
 						$transformed = $xsl->transformToDoc($dom);
+
+						// Generate a new XML filename
 						$newXmlFilename = substr($xmlFile->getName(), 0, strrpos($xmlFile->getName(), '.')) . '-transformed.xml';
+
 
 						// now overwrite previous vars to point to newly transformed file
 						$xmlFile = new PhingFile($srcDir, $newXmlFilename);

@@ -21,3 +21,287 @@ Sep 28 16:17:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/ser
 Sep 28 16:17:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
 Sep 28 16:17:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
 Sep 28 16:17:04 symfony [info] {sfWebResponse} Send content (30925 o)
+Sep 28 16:29:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /job with parameters array (  'module' => 'job',  'action' => 'index',)
+Sep 28 16:29:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:29:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:29:14 symfony [info] {sfFrontWebController} Action "job/index" does not exist
+Sep 28 16:29:14 symfony [err] {sfError404Exception} Action "job/index" does not exist.
+Sep 28 16:29:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 16:29:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:29:14 symfony [info] {sfWebDebugLogger} Configuration 4.94 ms (7)
+Sep 28 16:29:14 symfony [info] {sfWebDebugLogger} Factories 7.95 ms (1)
+Sep 28 16:29:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:38 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /job with parameters array (  'module' => 'job',  'action' => 'index',)
+Sep 28 16:29:38 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:29:38 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:29:38 symfony [info] {sfFrontWebController} Action "job/index" does not exist
+Sep 28 16:29:38 symfony [err] {sfError404Exception} Action "job/index" does not exist.
+Sep 28 16:29:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Sep 28 16:29:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:29:38 symfony [info] {sfWebDebugLogger} Configuration 4.49 ms (7)
+Sep 28 16:29:38 symfony [info] {sfWebDebugLogger} Factories 6.59 ms (1)
+Sep 28 16:29:38 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:38 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:38 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:38 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:38 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:38 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:29:38 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:30:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /job with parameters array (  'module' => 'job',  'action' => 'index',)
+Sep 28 16:30:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:30:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:30:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 16:30:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 16:30:50 symfony [info] {jobActions} Call "jobActions->executeIndex()"
+Sep 28 16:30:50 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Sep 28 16:30:50 symfony [debug] {sfPropelLogger} time:  0.001 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SELECT jobeet_job.ID, jobeet_job.CATEGORY_ID, jobeet_job.TYPE, jobeet_job.COMPANY, jobeet_job.LOGO, jobeet_job.URL, jobeet_job.POSITION, jobeet_job.LOCATION, jobeet_job.DESCRIPTION, jobeet_job.HOW_TO_APPLY, jobeet_job.TOKEN, jobeet_job.IS_PUBLIC, jobeet_job.IS_ACTIVATED, jobeet_job.EMAIL, jobeet_job.EXPIRES_AT, jobeet_job.CREATED_AT, jobeet_job.UPDATED_AT FROM `jobeet_job`
+Sep 28 16:30:50 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/indexSuccess.php"
+Sep 28 16:30:50 symfony [info] {sfPHPView} Decorate content with "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:30:50 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:30:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 16:30:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:30:50 symfony [info] {sfWebDebugLogger} Configuration 7.42 ms (11)
+Sep 28 16:30:50 symfony [info] {sfWebDebugLogger} Factories 7.92 ms (1)
+Sep 28 16:30:50 symfony [info] {sfWebDebugLogger} Action "job/index" 12.53 ms (1)
+Sep 28 16:30:50 symfony [info] {sfWebDebugLogger} View "Success" for "job/index" 2.37 ms (1)
+Sep 28 16:30:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:30:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:30:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:30:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:30:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:30:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:30:50 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:30:50 symfony [info] {sfWebResponse} Send content (34790 o)
+Sep 28 16:31:04 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /job with parameters array (  'module' => 'job',  'action' => 'index',)
+Sep 28 16:31:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:31:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:31:04 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 16:31:04 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 16:31:04 symfony [info] {jobActions} Call "jobActions->executeIndex()"
+Sep 28 16:31:04 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Sep 28 16:31:04 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SELECT jobeet_job.ID, jobeet_job.CATEGORY_ID, jobeet_job.TYPE, jobeet_job.COMPANY, jobeet_job.LOGO, jobeet_job.URL, jobeet_job.POSITION, jobeet_job.LOCATION, jobeet_job.DESCRIPTION, jobeet_job.HOW_TO_APPLY, jobeet_job.TOKEN, jobeet_job.IS_PUBLIC, jobeet_job.IS_ACTIVATED, jobeet_job.EMAIL, jobeet_job.EXPIRES_AT, jobeet_job.CREATED_AT, jobeet_job.UPDATED_AT FROM `jobeet_job`
+Sep 28 16:31:04 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/indexSuccess.php"
+Sep 28 16:31:04 symfony [info] {sfPHPView} Decorate content with "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:31:04 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:31:04 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 16:31:04 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:31:04 symfony [info] {sfWebDebugLogger} Configuration 4.45 ms (11)
+Sep 28 16:31:04 symfony [info] {sfWebDebugLogger} Factories 6.26 ms (1)
+Sep 28 16:31:04 symfony [info] {sfWebDebugLogger} Action "job/index" 2.21 ms (1)
+Sep 28 16:31:04 symfony [info] {sfWebDebugLogger} View "Success" for "job/index" 0.98 ms (1)
+Sep 28 16:31:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:04 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:04 symfony [info] {sfWebResponse} Send content (34790 o)
+Sep 28 16:31:45 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /job/new with parameters array (  'module' => 'job',  'action' => 'new',)
+Sep 28 16:31:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:31:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:31:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 16:31:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 16:31:45 symfony [info] {jobActions} Call "jobActions->executeNew()"
+Sep 28 16:31:45 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/newSuccess.php"
+Sep 28 16:31:45 symfony [info] {sfPartialView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/_form.php"
+Sep 28 16:31:45 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    4.0 MB | mempeak:    4.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Sep 28 16:31:45 symfony [debug] {sfPropelLogger} time:  0.001 sec | slow:  NO | mem:    4.0 MB | mempeak:    4.0 MB | memdelta:      0.0 B | SELECT jobeet_category.ID, jobeet_category.NAME FROM `jobeet_category`
+Sep 28 16:31:45 symfony [info] {sfPHPView} Decorate content with "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:31:45 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:31:45 symfony [err] {RuntimeException} Class "JobeetCategory" must implement a "__toString" method to be rendered in a "sfWidgetFormPropelChoice" widget
+Sep 28 16:31:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 500 Internal Server Error"
+Sep 28 16:31:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:31:45 symfony [info] {sfWebDebugLogger} Configuration 4.68 ms (11)
+Sep 28 16:31:45 symfony [info] {sfWebDebugLogger} Factories 6.47 ms (1)
+Sep 28 16:31:45 symfony [info] {sfWebDebugLogger} Action "job/new" 6.08 ms (1)
+Sep 28 16:31:45 symfony [info] {sfWebDebugLogger} View "Success" for "job/new" 6.89 ms (1)
+Sep 28 16:31:45 symfony [info] {sfWebDebugLogger} Partial "job/_form" 5.35 ms (1)
+Sep 28 16:31:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:48 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /job with parameters array (  'module' => 'job',  'action' => 'index',)
+Sep 28 16:31:48 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:31:48 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:31:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 16:31:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 16:31:48 symfony [info] {jobActions} Call "jobActions->executeIndex()"
+Sep 28 16:31:48 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Sep 28 16:31:48 symfony [debug] {sfPropelLogger} time:  0.001 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SELECT jobeet_job.ID, jobeet_job.CATEGORY_ID, jobeet_job.TYPE, jobeet_job.COMPANY, jobeet_job.LOGO, jobeet_job.URL, jobeet_job.POSITION, jobeet_job.LOCATION, jobeet_job.DESCRIPTION, jobeet_job.HOW_TO_APPLY, jobeet_job.TOKEN, jobeet_job.IS_PUBLIC, jobeet_job.IS_ACTIVATED, jobeet_job.EMAIL, jobeet_job.EXPIRES_AT, jobeet_job.CREATED_AT, jobeet_job.UPDATED_AT FROM `jobeet_job`
+Sep 28 16:31:48 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/indexSuccess.php"
+Sep 28 16:31:48 symfony [info] {sfPHPView} Decorate content with "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:31:48 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:31:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 16:31:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:31:48 symfony [info] {sfWebDebugLogger} Configuration 4.79 ms (11)
+Sep 28 16:31:48 symfony [info] {sfWebDebugLogger} Factories 5.98 ms (1)
+Sep 28 16:31:48 symfony [info] {sfWebDebugLogger} Action "job/index" 2.38 ms (1)
+Sep 28 16:31:48 symfony [info] {sfWebDebugLogger} View "Success" for "job/index" 1.02 ms (1)
+Sep 28 16:31:48 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:48 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:48 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:48 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:48 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:48 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:48 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:31:48 symfony [info] {sfWebResponse} Send content (34790 o)
+Sep 28 16:32:42 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /job with parameters array (  'module' => 'job',  'action' => 'index',)
+Sep 28 16:32:42 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:32:42 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:32:42 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 16:32:42 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 16:32:42 symfony [info] {jobActions} Call "jobActions->executeIndex()"
+Sep 28 16:32:42 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Sep 28 16:32:42 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SELECT jobeet_job.ID, jobeet_job.CATEGORY_ID, jobeet_job.TYPE, jobeet_job.COMPANY, jobeet_job.LOGO, jobeet_job.URL, jobeet_job.POSITION, jobeet_job.LOCATION, jobeet_job.DESCRIPTION, jobeet_job.HOW_TO_APPLY, jobeet_job.TOKEN, jobeet_job.IS_PUBLIC, jobeet_job.IS_ACTIVATED, jobeet_job.EMAIL, jobeet_job.EXPIRES_AT, jobeet_job.CREATED_AT, jobeet_job.UPDATED_AT FROM `jobeet_job`
+Sep 28 16:32:42 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/indexSuccess.php"
+Sep 28 16:32:42 symfony [info] {sfPHPView} Decorate content with "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:32:42 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:32:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 16:32:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:32:42 symfony [info] {sfWebDebugLogger} Configuration 7.18 ms (11)
+Sep 28 16:32:42 symfony [info] {sfWebDebugLogger} Factories 9.95 ms (1)
+Sep 28 16:32:42 symfony [info] {sfWebDebugLogger} Action "job/index" 3.73 ms (1)
+Sep 28 16:32:42 symfony [info] {sfWebDebugLogger} View "Success" for "job/index" 1.47 ms (1)
+Sep 28 16:32:42 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:42 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:42 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:42 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:42 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:42 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:42 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:42 symfony [info] {sfWebResponse} Send content (34789 o)
+Sep 28 16:32:45 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /job/new with parameters array (  'module' => 'job',  'action' => 'new',)
+Sep 28 16:32:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:32:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:32:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 16:32:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 16:32:45 symfony [info] {jobActions} Call "jobActions->executeNew()"
+Sep 28 16:32:45 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/newSuccess.php"
+Sep 28 16:32:45 symfony [info] {sfPartialView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/_form.php"
+Sep 28 16:32:45 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    4.0 MB | mempeak:    4.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Sep 28 16:32:45 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    4.0 MB | mempeak:    4.0 MB | memdelta:      0.0 B | SELECT jobeet_category.ID, jobeet_category.NAME FROM `jobeet_category`
+Sep 28 16:32:45 symfony [info] {sfPHPView} Decorate content with "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:32:45 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:32:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 16:32:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:32:45 symfony [info] {sfWebDebugLogger} Configuration 4.23 ms (11)
+Sep 28 16:32:45 symfony [info] {sfWebDebugLogger} Factories 5.95 ms (1)
+Sep 28 16:32:45 symfony [info] {sfWebDebugLogger} Action "job/new" 0.76 ms (1)
+Sep 28 16:32:45 symfony [info] {sfWebDebugLogger} View "Success" for "job/new" 5.66 ms (1)
+Sep 28 16:32:45 symfony [info] {sfWebDebugLogger} Partial "job/_form" 5.15 ms (1)
+Sep 28 16:32:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:45 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:32:45 symfony [info] {sfWebResponse} Send content (58889 o)
+Sep 28 16:33:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /job with parameters array (  'module' => 'job',  'action' => 'index',)
+Sep 28 16:33:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:33:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:33:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 16:33:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 16:33:14 symfony [info] {jobActions} Call "jobActions->executeIndex()"
+Sep 28 16:33:14 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Sep 28 16:33:14 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SELECT jobeet_job.ID, jobeet_job.CATEGORY_ID, jobeet_job.TYPE, jobeet_job.COMPANY, jobeet_job.LOGO, jobeet_job.URL, jobeet_job.POSITION, jobeet_job.LOCATION, jobeet_job.DESCRIPTION, jobeet_job.HOW_TO_APPLY, jobeet_job.TOKEN, jobeet_job.IS_PUBLIC, jobeet_job.IS_ACTIVATED, jobeet_job.EMAIL, jobeet_job.EXPIRES_AT, jobeet_job.CREATED_AT, jobeet_job.UPDATED_AT FROM `jobeet_job`
+Sep 28 16:33:14 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/indexSuccess.php"
+Sep 28 16:33:14 symfony [info] {sfPHPView} Decorate content with "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:33:14 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:33:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 16:33:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:33:14 symfony [info] {sfWebDebugLogger} Configuration 3.90 ms (11)
+Sep 28 16:33:14 symfony [info] {sfWebDebugLogger} Factories 5.13 ms (1)
+Sep 28 16:33:14 symfony [info] {sfWebDebugLogger} Action "job/index" 2.41 ms (1)
+Sep 28 16:33:14 symfony [info] {sfWebDebugLogger} View "Success" for "job/index" 1.00 ms (1)
+Sep 28 16:33:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:14 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:14 symfony [info] {sfWebResponse} Send content (34882 o)
+Sep 28 16:33:16 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /job with parameters array (  'module' => 'job',  'action' => 'index',)
+Sep 28 16:33:16 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:33:16 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:33:16 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 16:33:16 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 16:33:16 symfony [info] {jobActions} Call "jobActions->executeIndex()"
+Sep 28 16:33:16 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Sep 28 16:33:16 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SELECT jobeet_job.ID, jobeet_job.CATEGORY_ID, jobeet_job.TYPE, jobeet_job.COMPANY, jobeet_job.LOGO, jobeet_job.URL, jobeet_job.POSITION, jobeet_job.LOCATION, jobeet_job.DESCRIPTION, jobeet_job.HOW_TO_APPLY, jobeet_job.TOKEN, jobeet_job.IS_PUBLIC, jobeet_job.IS_ACTIVATED, jobeet_job.EMAIL, jobeet_job.EXPIRES_AT, jobeet_job.CREATED_AT, jobeet_job.UPDATED_AT FROM `jobeet_job`
+Sep 28 16:33:16 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/indexSuccess.php"
+Sep 28 16:33:16 symfony [info] {sfPHPView} Decorate content with "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:33:16 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:33:16 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 16:33:16 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:33:16 symfony [info] {sfWebDebugLogger} Configuration 4.00 ms (11)
+Sep 28 16:33:16 symfony [info] {sfWebDebugLogger} Factories 4.66 ms (1)
+Sep 28 16:33:16 symfony [info] {sfWebDebugLogger} Action "job/index" 1.80 ms (1)
+Sep 28 16:33:16 symfony [info] {sfWebDebugLogger} View "Success" for "job/index" 0.51 ms (1)
+Sep 28 16:33:16 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:16 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:16 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:16 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:16 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:16 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:16 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:16 symfony [info] {sfWebResponse} Send content (34913 o)
+Sep 28 16:33:17 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /job with parameters array (  'module' => 'job',  'action' => 'index',)
+Sep 28 16:33:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:33:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:33:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 16:33:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 16:33:17 symfony [info] {jobActions} Call "jobActions->executeIndex()"
+Sep 28 16:33:17 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SET NAMES 'utf8'
+Sep 28 16:33:17 symfony [debug] {sfPropelLogger} time:  0.000 sec | slow:  NO | mem:    2.0 MB | mempeak:    2.0 MB | memdelta:      0.0 B | SELECT jobeet_job.ID, jobeet_job.CATEGORY_ID, jobeet_job.TYPE, jobeet_job.COMPANY, jobeet_job.LOGO, jobeet_job.URL, jobeet_job.POSITION, jobeet_job.LOCATION, jobeet_job.DESCRIPTION, jobeet_job.HOW_TO_APPLY, jobeet_job.TOKEN, jobeet_job.IS_PUBLIC, jobeet_job.IS_ACTIVATED, jobeet_job.EMAIL, jobeet_job.EXPIRES_AT, jobeet_job.CREATED_AT, jobeet_job.UPDATED_AT FROM `jobeet_job`
+Sep 28 16:33:17 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/modules/job/templates/indexSuccess.php"
+Sep 28 16:33:17 symfony [info] {sfPHPView} Decorate content with "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:33:17 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/apps/frontend/templates/layout.php"
+Sep 28 16:33:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 16:33:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:33:17 symfony [info] {sfWebDebugLogger} Configuration 3.29 ms (11)
+Sep 28 16:33:17 symfony [info] {sfWebDebugLogger} Factories 4.22 ms (1)
+Sep 28 16:33:17 symfony [info] {sfWebDebugLogger} Action "job/index" 1.61 ms (1)
+Sep 28 16:33:17 symfony [info] {sfWebDebugLogger} View "Success" for "job/index" 0.68 ms (1)
+Sep 28 16:33:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:17 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:17 symfony [info] {sfWebResponse} Send content (34913 o)
+Sep 28 16:33:46 symfony [info] {sfPatternRouting} Match route "homepage" (/) for / with parameters array (  'module' => 'default',  'action' => 'index',)
+Sep 28 16:33:46 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php on line 257 (ini_set(): A session is active. You cannot change the session module's ini settings at this time)
+Sep 28 16:33:46 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/mailer/sfMailer.class.php on line 21 (Declaration of sfMailer::send(Swift_Mime_Message $message, &$failedRecipients = NULL) should be compatible with Swift_Mailer::send(Swift_Mime_SimpleMessage $message, &$failedRecipients = NULL))
+Sep 28 16:33:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Sep 28 16:33:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Sep 28 16:33:46 symfony [info] {defaultActions} Call "defaultActions->executeIndex()"
+Sep 28 16:33:46 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php"
+Sep 28 16:33:46 symfony [info] {sfPHPView} Decorate content with "/home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Sep 28 16:33:46 symfony [info] {sfPHPView} Render "/home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php"
+Sep 28 16:33:46 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Sep 28 16:33:46 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Sep 28 16:33:46 symfony [info] {sfWebDebugLogger} Configuration 5.80 ms (11)
+Sep 28 16:33:46 symfony [info] {sfWebDebugLogger} Factories 7.59 ms (1)
+Sep 28 16:33:46 symfony [info] {sfWebDebugLogger} Action "default/index" 0.02 ms (1)
+Sep 28 16:33:46 symfony [info] {sfWebDebugLogger} View "Success" for "default/index" 0.99 ms (1)
+Sep 28 16:33:46 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:46 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:46 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:46 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:46 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:46 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:46 symfony [warning] {sfWebDebugLogger}  Warning at /home/racso/servir-prueba/jobeet/lib/vendor/symfony/lib/yaml/sfYamlInline.php on line 139 (A non-numeric value encountered)
+Sep 28 16:33:46 symfony [info] {sfWebResponse} Send content (31203 o)
